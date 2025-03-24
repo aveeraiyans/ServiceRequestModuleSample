@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "54A2EsXBvl8+b5/irdqzhaFrSfSZEvIcf8r8R5HQ3BE=",
+  "Source": "ServiceRequestModule",
+  "BasePath": "_content/ServiceRequestModule",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

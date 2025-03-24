@@ -1,0 +1,72 @@
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\bin\Debug\net8.0\appsettings.Development.json
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\bin\Debug\net8.0\appsettings.json
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\bin\Debug\net8.0\ServiceRequestModule.staticwebassets.endpoints.json
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\bin\Debug\net8.0\ServiceRequestModule.exe
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\bin\Debug\net8.0\ServiceRequestModule.deps.json
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\bin\Debug\net8.0\ServiceRequestModule.runtimeconfig.json
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\bin\Debug\net8.0\ServiceRequestModule.dll
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\bin\Debug\net8.0\ServiceRequestModule.pdb
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\ServiceRequestModule.csproj.AssemblyReference.cache
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\ServiceRequestModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\ServiceRequestModule.AssemblyInfoInputs.cache
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\ServiceRequestModule.AssemblyInfo.cs
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\ServiceRequestModule.csproj.CoreCompileInputs.cache
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\ServiceRequestModule.MvcApplicationPartsAssemblyInfo.cs
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\ServiceRequestModule.MvcApplicationPartsAssemblyInfo.cache
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\scopedcss\bundle\ServiceRequestModule.styles.css
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\staticwebassets.build.json
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\staticwebassets.development.json
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\staticwebassets\msbuild.ServiceRequestModule.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\staticwebassets\msbuild.ServiceRequestModule.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\staticwebassets\msbuild.build.ServiceRequestModule.props
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ServiceRequestModule.props
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ServiceRequestModule.props
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\ServiceR.5F155F69.Up2Date
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\ServiceRequestModule.dll
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\refint\ServiceRequestModule.dll
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\ServiceRequestModule.pdb
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\ServiceRequestModule.genruntimeconfig.cache
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\ref\ServiceRequestModule.dll
+C:\Users\ashvi\Desktop\ServiceRequestModule\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ashvi\Desktop\ServiceRequestModule\bin\Debug\net8.0\appsettings.json
+C:\Users\ashvi\Desktop\ServiceRequestModule\bin\Debug\net8.0\ServiceRequestModule.staticwebassets.endpoints.json
+C:\Users\ashvi\Desktop\ServiceRequestModule\bin\Debug\net8.0\ServiceRequestModule.exe
+C:\Users\ashvi\Desktop\ServiceRequestModule\bin\Debug\net8.0\ServiceRequestModule.deps.json
+C:\Users\ashvi\Desktop\ServiceRequestModule\bin\Debug\net8.0\ServiceRequestModule.runtimeconfig.json
+C:\Users\ashvi\Desktop\ServiceRequestModule\bin\Debug\net8.0\ServiceRequestModule.dll
+C:\Users\ashvi\Desktop\ServiceRequestModule\bin\Debug\net8.0\ServiceRequestModule.pdb
+C:\Users\ashvi\Desktop\ServiceRequestModule\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ashvi\Desktop\ServiceRequestModule\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ashvi\Desktop\ServiceRequestModule\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ashvi\Desktop\ServiceRequestModule\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ashvi\Desktop\ServiceRequestModule\obj\Debug\net8.0\ServiceRequestModule.csproj.AssemblyReference.cache
+C:\Users\ashvi\Desktop\ServiceRequestModule\obj\Debug\net8.0\ServiceRequestModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashvi\Desktop\ServiceRequestModule\obj\Debug\net8.0\ServiceRequestModule.AssemblyInfoInputs.cache
+C:\Users\ashvi\Desktop\ServiceRequestModule\obj\Debug\net8.0\ServiceRequestModule.AssemblyInfo.cs
+C:\Users\ashvi\Desktop\ServiceRequestModule\obj\Debug\net8.0\ServiceRequestModule.csproj.CoreCompileInputs.cache
+C:\Users\ashvi\Desktop\ServiceRequestModule\obj\Debug\net8.0\ServiceRequestModule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ashvi\Desktop\ServiceRequestModule\obj\Debug\net8.0\ServiceRequestModule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ashvi\Desktop\ServiceRequestModule\obj\Debug\net8.0\scopedcss\bundle\ServiceRequestModule.styles.css
+C:\Users\ashvi\Desktop\ServiceRequestModule\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ashvi\Desktop\ServiceRequestModule\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ashvi\Desktop\ServiceRequestModule\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ashvi\Desktop\ServiceRequestModule\obj\Debug\net8.0\staticwebassets\msbuild.ServiceRequestModule.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ashvi\Desktop\ServiceRequestModule\obj\Debug\net8.0\staticwebassets\msbuild.ServiceRequestModule.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ashvi\Desktop\ServiceRequestModule\obj\Debug\net8.0\staticwebassets\msbuild.build.ServiceRequestModule.props
+C:\Users\ashvi\Desktop\ServiceRequestModule\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ServiceRequestModule.props
+C:\Users\ashvi\Desktop\ServiceRequestModule\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ServiceRequestModule.props
+C:\Users\ashvi\Desktop\ServiceRequestModule\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ashvi\Desktop\ServiceRequestModule\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ashvi\Desktop\ServiceRequestModule\obj\Debug\net8.0\ServiceR.5F155F69.Up2Date
+C:\Users\ashvi\Desktop\ServiceRequestModule\obj\Debug\net8.0\ServiceRequestModule.dll
+C:\Users\ashvi\Desktop\ServiceRequestModule\obj\Debug\net8.0\refint\ServiceRequestModule.dll
+C:\Users\ashvi\Desktop\ServiceRequestModule\obj\Debug\net8.0\ServiceRequestModule.pdb
+C:\Users\ashvi\Desktop\ServiceRequestModule\obj\Debug\net8.0\ServiceRequestModule.genruntimeconfig.cache
+C:\Users\ashvi\Desktop\ServiceRequestModule\obj\Debug\net8.0\ref\ServiceRequestModule.dll

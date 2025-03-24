@@ -1,0 +1,37 @@
+@ServiceRequestModule_HostAddress = https://localhost:7292
+
+GET {{ServiceRequestModule_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+DELETE {{ServiceRequestModule_HostAddress}}/{id}
+
+###
+
+PUT {{ServiceRequestModule_HostAddress}}/{id}
+Content-Type: application/json
+
+{
+  //OurHero
+}
+
+###
+
+GET {{ServiceRequestModule_HostAddress}}/0
+
+###
+
+GET {{ServiceRequestModule_HostAddress}}/api/ourhero
+
+###
+
+POST {{ServiceRequestModule_HostAddress}}/api/ourhero
+Content-Type: application/json
+
+{
+  //OurHero
+}
+
+
+

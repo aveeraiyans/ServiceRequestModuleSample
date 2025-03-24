@@ -1,0 +1,104 @@
+D:\Projects\DotNetCore\DotNet8API\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects\DotNetCore\DotNet8API\bin\Debug\net8.0\appsettings.json
+D:\Projects\DotNetCore\DotNet8API\bin\Debug\net8.0\DotNet8API.exe
+D:\Projects\DotNetCore\DotNet8API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projects\DotNetCore\DotNet8API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\DotNetCore\DotNet8API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\DotNetCore\DotNet8API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\DotNetCore\DotNet8API\obj\Debug\net8.0\DotNet8API.csproj.AssemblyReference.cache
+D:\Projects\DotNetCore\DotNet8API\obj\Debug\net8.0\DotNet8API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DotNetCore\DotNet8API\obj\Debug\net8.0\DotNet8API.AssemblyInfoInputs.cache
+D:\Projects\DotNetCore\DotNet8API\obj\Debug\net8.0\DotNet8API.AssemblyInfo.cs
+D:\Projects\DotNetCore\DotNet8API\obj\Debug\net8.0\DotNet8API.csproj.CoreCompileInputs.cache
+D:\Projects\DotNetCore\DotNet8API\obj\Debug\net8.0\DotNet8API.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\DotNetCore\DotNet8API\obj\Debug\net8.0\DotNet8API.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\DotNetCore\DotNet8API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projects\DotNetCore\DotNet8API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projects\DotNetCore\DotNet8API\obj\Debug\net8.0\staticwebassets\msbuild.DotNet8API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\DotNetCore\DotNet8API\obj\Debug\net8.0\staticwebassets\msbuild.build.DotNet8API.props
+D:\Projects\DotNetCore\DotNet8API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DotNet8API.props
+D:\Projects\DotNetCore\DotNet8API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DotNet8API.props
+D:\Projects\DotNetCore\DotNet8API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projects\DotNetCore\DotNet8API\obj\Debug\net8.0\scopedcss\bundle\DotNet8API.styles.css
+D:\Projects\DotNetCore\DotNet8API\obj\Debug\net8.0\DotNet8API.csproj.CopyComplete
+D:\Projects\DotNetCore\DotNet8API\obj\Debug\net8.0\DotNet8API.dll
+D:\Projects\DotNetCore\DotNet8API\obj\Debug\net8.0\refint\DotNet8API.dll
+D:\Projects\DotNetCore\DotNet8API\obj\Debug\net8.0\DotNet8API.pdb
+D:\Projects\DotNetCore\DotNet8API\bin\Debug\net8.0\DotNet8API.deps.json
+D:\Projects\DotNetCore\DotNet8API\bin\Debug\net8.0\DotNet8API.runtimeconfig.json
+D:\Projects\DotNetCore\DotNet8API\bin\Debug\net8.0\DotNet8API.dll
+D:\Projects\DotNetCore\DotNet8API\bin\Debug\net8.0\DotNet8API.pdb
+D:\Projects\DotNetCore\DotNet8API\obj\Debug\net8.0\DotNet8API.genruntimeconfig.cache
+D:\Projects\DotNetCore\DotNet8API\obj\Debug\net8.0\ref\DotNet8API.dll
+C:\Users\ashvi\Desktop\Sample\DotNet8API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ashvi\Desktop\Sample\DotNet8API\bin\Debug\net8.0\appsettings.json
+C:\Users\ashvi\Desktop\Sample\DotNet8API\bin\Debug\net8.0\DotNet8API.staticwebassets.endpoints.json
+C:\Users\ashvi\Desktop\Sample\DotNet8API\bin\Debug\net8.0\DotNet8API.exe
+C:\Users\ashvi\Desktop\Sample\DotNet8API\bin\Debug\net8.0\DotNet8API.deps.json
+C:\Users\ashvi\Desktop\Sample\DotNet8API\bin\Debug\net8.0\DotNet8API.runtimeconfig.json
+C:\Users\ashvi\Desktop\Sample\DotNet8API\bin\Debug\net8.0\DotNet8API.dll
+C:\Users\ashvi\Desktop\Sample\DotNet8API\bin\Debug\net8.0\DotNet8API.pdb
+C:\Users\ashvi\Desktop\Sample\DotNet8API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ashvi\Desktop\Sample\DotNet8API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ashvi\Desktop\Sample\DotNet8API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ashvi\Desktop\Sample\DotNet8API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ashvi\Desktop\Sample\DotNet8API\obj\Debug\net8.0\DotNet8API.csproj.AssemblyReference.cache
+C:\Users\ashvi\Desktop\Sample\DotNet8API\obj\Debug\net8.0\DotNet8API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashvi\Desktop\Sample\DotNet8API\obj\Debug\net8.0\DotNet8API.AssemblyInfoInputs.cache
+C:\Users\ashvi\Desktop\Sample\DotNet8API\obj\Debug\net8.0\DotNet8API.AssemblyInfo.cs
+C:\Users\ashvi\Desktop\Sample\DotNet8API\obj\Debug\net8.0\DotNet8API.csproj.CoreCompileInputs.cache
+C:\Users\ashvi\Desktop\Sample\DotNet8API\obj\Debug\net8.0\DotNet8API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ashvi\Desktop\Sample\DotNet8API\obj\Debug\net8.0\DotNet8API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ashvi\Desktop\Sample\DotNet8API\obj\Debug\net8.0\scopedcss\bundle\DotNet8API.styles.css
+C:\Users\ashvi\Desktop\Sample\DotNet8API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ashvi\Desktop\Sample\DotNet8API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ashvi\Desktop\Sample\DotNet8API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ashvi\Desktop\Sample\DotNet8API\obj\Debug\net8.0\staticwebassets\msbuild.DotNet8API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ashvi\Desktop\Sample\DotNet8API\obj\Debug\net8.0\staticwebassets\msbuild.DotNet8API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ashvi\Desktop\Sample\DotNet8API\obj\Debug\net8.0\staticwebassets\msbuild.build.DotNet8API.props
+C:\Users\ashvi\Desktop\Sample\DotNet8API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DotNet8API.props
+C:\Users\ashvi\Desktop\Sample\DotNet8API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DotNet8API.props
+C:\Users\ashvi\Desktop\Sample\DotNet8API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ashvi\Desktop\Sample\DotNet8API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ashvi\Desktop\Sample\DotNet8API\obj\Debug\net8.0\DotNet8API.csproj.Up2Date
+C:\Users\ashvi\Desktop\Sample\DotNet8API\obj\Debug\net8.0\DotNet8API.dll
+C:\Users\ashvi\Desktop\Sample\DotNet8API\obj\Debug\net8.0\refint\DotNet8API.dll
+C:\Users\ashvi\Desktop\Sample\DotNet8API\obj\Debug\net8.0\DotNet8API.pdb
+C:\Users\ashvi\Desktop\Sample\DotNet8API\obj\Debug\net8.0\DotNet8API.genruntimeconfig.cache
+C:\Users\ashvi\Desktop\Sample\DotNet8API\obj\Debug\net8.0\ref\DotNet8API.dll
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\bin\Debug\net8.0\appsettings.Development.json
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\bin\Debug\net8.0\DotNet8API.staticwebassets.endpoints.json
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\bin\Debug\net8.0\appsettings.json
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\bin\Debug\net8.0\DotNet8API.exe
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\bin\Debug\net8.0\DotNet8API.deps.json
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\bin\Debug\net8.0\DotNet8API.runtimeconfig.json
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\bin\Debug\net8.0\DotNet8API.dll
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\bin\Debug\net8.0\DotNet8API.pdb
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\DotNet8API.csproj.AssemblyReference.cache
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\DotNet8API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\DotNet8API.AssemblyInfoInputs.cache
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\DotNet8API.AssemblyInfo.cs
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\DotNet8API.csproj.CoreCompileInputs.cache
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\DotNet8API.MvcApplicationPartsAssemblyInfo.cs
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\DotNet8API.MvcApplicationPartsAssemblyInfo.cache
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\scopedcss\bundle\DotNet8API.styles.css
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\staticwebassets.build.json
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\staticwebassets.development.json
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\staticwebassets\msbuild.DotNet8API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\staticwebassets\msbuild.DotNet8API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\staticwebassets\msbuild.build.DotNet8API.props
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DotNet8API.props
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DotNet8API.props
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\DotNet8API.csproj.Up2Date
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\DotNet8API.dll
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\refint\DotNet8API.dll
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\DotNet8API.pdb
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\DotNet8API.genruntimeconfig.cache
+D:\Secure Folder\My Dev Folder\Samples\WebAPICore\obj\Debug\net8.0\ref\DotNet8API.dll
